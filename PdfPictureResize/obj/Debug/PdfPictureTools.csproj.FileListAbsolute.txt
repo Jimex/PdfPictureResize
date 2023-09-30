@@ -1,0 +1,17 @@
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\PdfPictureToDocx.exe.config
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\PdfPictureToDocx.exe
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\PdfPictureToDocx.pdb
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\BouncyCastle.Crypto.dll
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\itextsharp.dll
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\NLog.dll
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\itextsharp.xml
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\bin\Debug\NLog.xml
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureTools.csproj.AssemblyReference.cache
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureTools.csproj.SuggestedBindingRedirects.cache
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureToDocx.frmMain.resources
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureToDocx.Properties.Resources.resources
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureTools.csproj.GenerateResource.cache
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureTools.csproj.CoreCompileInputs.cache
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureTools.csproj.CopyComplete
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureToDocx.exe
+E:\Work\Development\DotNet\PDFPictureToWord\DotnetSrc\PdfPictureToDocx\PdfPictureToDocx\obj\Debug\PdfPictureToDocx.pdb
